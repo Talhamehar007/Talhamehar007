@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Talhamehar007
-- 👀 I’m interested in Linux, Python and Networking/Cybersecurity...
+- 👋 Hi, I’m Talha Mehar.
+- 👀 I’m interested in Linux, Python, Networking/Cybersecurity, ML, Front-End Developement.
 - 🌱 I’m currently learning git and ML, side by side.
 - 💞️ I’m looking to collaborate on DataVault app.
 - 📫 How to reach me? Twitter @talhamehar007
