@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Talha Mehar.
+- 👋 Hi, I’m Abu Talha.
 - 👀 I’m interested in Linux, Python, Networking/Cybersecurity, ML, & Front-End Developement.
 - 🌱 I’m currently learning git, SQL and ML, side by side.
 - 💞️ I’m looking to collaborate on DataVault app.
